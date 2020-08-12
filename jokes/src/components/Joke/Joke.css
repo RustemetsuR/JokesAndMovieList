@@ -1,0 +1,9 @@
+.joke{
+    border: 1px solid black;
+    font-style: italic;
+    padding: 10px;
+    margin: 5px;
+    font-size: 15px;
+    display: inline-block;
+    margin: 25px auto 0;
+}
